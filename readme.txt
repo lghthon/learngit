@@ -1,2 +1,3 @@
-git is a versionn system
-git is free software
+git is a distribute1 versionn system.
+git is free software.
+
